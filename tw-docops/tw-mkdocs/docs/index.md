@@ -1,34 +1,11 @@
-# Index Page
 
-## Wizeline DocOps Template
+# My Profile
 
-Welcome to the DocOps Template
+![Screenshot](images/me.jpg)
 
-## Adding Information to the Page
+Omar is a Lawyer that is passionate about technology and enjoy learning new things. 
 
-Use Markdown to add information to the pages of your site.
+Before becoming a Technical Writer, he worked as a Court Clerk Assistant in the Federal Court of Administrative Justice writing legal documents, this helped him to acquire communication, logical thinking, and research skills. 
 
-For example, here is a list:
+Omar loves spend his free time reading, talking with friends watching movies and series, and learning new stuff in any topic.
 
-1.  Item 1
-2.  Item 2
-3.  Item 3
-4.  Item 4
-5.  Item 5
-
-Here is another list:
-
-* Another item
-* Another item
-* Another item
-* Another item 
-
-## Adding a New Page
-
-Add new pages to your site doing the following:
-
-1. Create a _.md_ file to the **docs** folder.
-2. Open the **mkdocs.yml** file.
-3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
-
-To learn more about how to write your documents using MkDocs, refer to the official page [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/).

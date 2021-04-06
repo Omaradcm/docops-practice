@@ -1,12 +1,13 @@
-site_name: Wizeline MkDocs Template
+site_name: Omar Álvarez del Castillo
 nav:
   - Home: index.md
-  - About: about.md
-  - Hobbies: Hobbies.md
+  - Education: education.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Selected Past Work: selectedpastwork.md
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
-  logo: images/wizeline_isotype.png
+  logo: images/wizeline_dark_isotype@2x.png
+extra_css:
+  - css/extra.css
